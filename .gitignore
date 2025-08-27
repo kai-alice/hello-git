@@ -1,0 +1,11 @@
+# 編譯產物
+hello
+*.o
+a.out
+
+# VS Code 設定
+.vscode/
+
+# 其他暫存檔
+*.log
+*.tmp
